@@ -1,6 +1,7 @@
 <p align="center">
-<a href="#"><img width="50%" height="auto"  src="istockphoto-1164538944-612x612.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto"  src="github_pic.gif" height="175px"/></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaKaddouri&label=Profile%20views&color=129e00&style=plastic" alt="soumyaKaddouri" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumya</h1>
 <h3 align="center">I'm a passionate Web Engineering & Mobile Computing Student from Morroco.</h3>
@@ -35,7 +36,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/soumyaKaddouri/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumya kaddouri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaKaddouri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
