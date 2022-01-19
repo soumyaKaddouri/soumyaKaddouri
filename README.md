@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="100%" height="auto"  src="github_pic.gif" height="175px"/></a>
+<a href="#"><img width="50%" height="auto"  src="github_pic.gif" height="175px"/></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaKaddouri&label=Profile%20views&color=129e00&style=plastic" alt="soumyaKaddouri" /> </p>
 
