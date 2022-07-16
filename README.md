@@ -11,7 +11,7 @@
 
 - 👩🏼‍💻 All of my projects are available in **my Profile**
 
-- 📫 How to reach me **Soumayakad76@gmail.com**
+- 📫 How to reach me **Soumayakad76@gmail.com** or \**soumya_kaddouri@um5.ac.ma*
 
 ## 🚀 Languages and Tools:
 
